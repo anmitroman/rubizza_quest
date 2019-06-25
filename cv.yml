@@ -1,4 +1,4 @@
-sidebar:
+about:
     name: Anastasiya Mitrofanova
     tagline: Developer
     avatar: av.png 
@@ -17,11 +17,9 @@ sidebar:
         level: Pre-Intermediate
 
     interests:
-      - item: the virtual reality
-
-      - item: creation
-
-      - item: swimming
+      - the virtual reality
+      - creation
+      - swimming
 
 career-profile:
     title: Career Profile
